@@ -1,6 +1,14 @@
 fieldset{
     width: 290px; /* lebar */
-    border-color: red; /* warna garis tepi */
+    border-color: blue; /* warna garis tepi */
     box-shadow: 2px 2px 4px #333; /* bayangan */
     
 }
+body {
+    background-color: white;
+   .elemengaris {
+    border: 1px solid #000; /* 1px solid black: garis berukuran 1 piksel, solid, dan warna hitam */
+    padding: 10px; /* untuk memberikan jarak antara garis dan konten elemen */
+}
+ 
+    }
